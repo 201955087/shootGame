@@ -213,4 +213,4 @@ public class shootGame extends BukkitCommand {
 
 // 추가되어야할 조건들
 // 조기종료 메소드 - 바로 endgame 실행에 생성된 블럭들 파괴
-// 
+// 실패 시 뜨는 것들 추가 필요(endgame메소드 내에서 구현 가능?)
