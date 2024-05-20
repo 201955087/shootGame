@@ -96,3 +96,10 @@ public class events implements Listener {
         }
     }
 }
+
+// 추가시켜야할 조건
+// hitblock의 양옆 위아래 블럭을 따로 선언하기(가독성 목적)
+// 양옆 블럭의 타입이 Air라면 brokenBlocks를 각각다르게 선언
+// 하나만 Air면 2로 둘다 Air면 1로 설정
+
+// 20칸 미만 위치에서 쏠때 특정 메세지 출력 및 발사된 화살 없애기
