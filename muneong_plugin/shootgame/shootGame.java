@@ -210,3 +210,7 @@ public class shootGame extends BukkitCommand {
         // 스코어보드 초기값으로 되돌리기
     }
 }
+
+// 추가되어야할 조건들
+// 조기종료 메소드 - 바로 endgame 실행에 생성된 블럭들 파괴
+// 
